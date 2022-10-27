@@ -1,0 +1,5 @@
+{
+    "chromeVersion":"95.0.4638.69",
+    "LogPath":".test-reports/Execution-Logs",
+    "downloadPath":"downloads"
+}
